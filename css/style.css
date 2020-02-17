@@ -1936,7 +1936,8 @@ ol {
 	display: flex !important;
 	justify-content: center;
 	align-items: center;
-	float: right;
+	float: both;
+	text-align: center;
 	font-size: 4rem;
 	color: rgb(207, 150, 150);
 	width: 100%;
@@ -1951,8 +1952,9 @@ ol {
 	font-size: 4rem;
 	color: rgb(207, 150, 150);
 	width: 100%;
-	height: 30%;
+	height: 40%;
 	font-weight: 900 !important;
+	text-align: center;
 }
 .man3 {
 	display: flex !important;
@@ -1964,4 +1966,5 @@ ol {
 	width: 100%;
 	height: 30%;
 	font-weight: 900 !important;
+	text-align: center;
 }
