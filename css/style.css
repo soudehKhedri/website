@@ -333,6 +333,7 @@ ol {
 
 .main-menu li {
 	display: inline;
+	text-align: start;
 }
 
 .main-menu li a {
@@ -1771,7 +1772,6 @@ ol {
 		display: none;
 	}
 	.site-logo {
-		padding: 15px 0;
 	}
 	.nav-switch {
 		position: absolute;
